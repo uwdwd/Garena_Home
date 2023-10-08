@@ -1,0 +1,94 @@
+
+/* bagian css : jefrin  */
+
+.container{
+    display: grid;
+    /* position: fixed; */
+    width: 100%;
+    margin :0;
+    background-color: white;
+    grid-template-columns: 50%  5% 5% 5% 5% 5% 5% 5% 5%  ;
+    
+}
+
+.item{
+    background-color: white;
+    font-size: 17px;
+    text-align: center;
+    height:30px ;
+    /* border: 1px solid gray; */
+    padding: 10px;  
+}
+
+.item1{
+    width: 45%;
+    height: 30px;
+    
+}
+.item1 img{
+    width: 40%;
+    height: 35px;
+}
+.item2 img{
+    width: 45%;
+}
+
+.footer{
+   display: grid;
+    
+    width: 100%;
+    margin :0;
+    background-color: white;
+    grid-template-columns: 55%  15% 15% 15%   ;
+    
+    
+}
+
+.fot-item{
+    border: 1px solid white;
+    background-color: white;
+    text-align: center;
+    margin: 0px 3px;
+    /* height: 80%; */
+    padding: 10px; 
+}
+
+.fot-item img{
+    width: 20%;
+    margin-right: 55%;
+    padding-top: 5%;
+}
+
+.fot5 p{
+    text-align: center;
+}
+
+.fot2{
+    text-align: left;
+    padding-top: 30% ;
+}
+
+.fot3{
+ text-align: left;
+ 
+}
+
+.fot4{
+    height: 100%;
+}
+.fot7{
+    text-align: left;
+    padding-left: 12%;
+}
+
+.last{
+    display: grid;
+    background-color: white;
+    grid-template-columns: 55% 10% 10% 10% 5% 5%;
+}
+
+.b1{
+    padding-left: 12%;
+}
+
+/*  akhir css jefrin */
