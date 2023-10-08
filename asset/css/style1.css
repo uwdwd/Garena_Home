@@ -12,7 +12,7 @@ a {
   grid-template-areas: "1 2 3";
   width: 100%;
   overflow: hidden;
-  position: fixed;
+  /* position: fixed; */
 }
 
 .left {
