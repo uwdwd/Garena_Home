@@ -1,0 +1,89 @@
+.containe-fluid {
+  display: flex;
+  width: 1240px;
+  height: 68px;
+}
+
+.judulutama {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  background-color: #f8f9fa;
+  margin: 0px;
+  padding: 50px 0px 0px;
+}
+.container {
+  display: flex;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  grid-gap: 40px;
+  text-align: center;
+  align-items: center;
+  background-color: #f8f9fa;
+  padding: 0px 0px 100px;
+  width: auto;
+  height: 600px;
+}
+
+.grid-cell-1 {
+  background-color: white;
+  padding: 76px 40px 0px;
+  width: 350px;
+  height: 400px;
+  border-radius: 6px;
+}
+
+.judul1 {
+  color: #f04145;
+  margin: 0px 0px 16px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.text1 {
+  font-size: 14px;
+  line-height: 1.86;
+  color: #757575cc;
+}
+
+.grid-cell-2 {
+  background-color: white;
+  padding: 76px 40px 0px;
+  width: 350px;
+  height: 400px;
+  border-radius: 6px;
+}
+
+.judul2 {
+  color: #f04145;
+  margin: 0px 0px 16px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.text2 {
+  font-size: 14px;
+  line-height: 1.86;
+  color: #757575cc;
+}
+
+.grid-cell-3 {
+  background-color: white;
+  padding: 76px 40px 0px;
+  width: 350px;
+  height: 400px;
+  border-radius: 6px;
+}
+
+.judul3 {
+  color: #f04145;
+  margin: 0px 0px 16px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.text3 {
+  font-size: 14px;
+  line-height: 1.86;
+  color: #757575cc;
+}
